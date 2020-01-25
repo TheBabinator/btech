@@ -1,5 +1,5 @@
-type: resource
+type: material
 name: "Gold"
 description: "Ooh, shiny!"
-color: #ffff66
+color: ffff66
 hardness: 3

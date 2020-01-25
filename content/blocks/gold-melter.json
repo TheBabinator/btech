@@ -2,8 +2,14 @@ type: GenericSmelter
 name: "Gold Melter"
 description: "Melts down gold, don't touch."
 liquidCapacity: 50
-consumes: gold/1
-outputLiquid: liquid-gold/5
+consumes: {
+	power: 1
+	item: gold
+}
+outputLiquid: {
+	liquid: liquid-gold
+	amount: 5
+}
 size: 2
 hasPower: true
 hasLiquids: true

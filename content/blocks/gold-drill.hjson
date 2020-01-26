@@ -1,0 +1,30 @@
+type: Drill
+name: "Gold Drill"
+description: "This drill is the best of the bunch, the only problem is it works better with molten gold."
+size: 3
+tier: 5
+drillTime: 400
+consumes: {
+  power: 4
+  liquids: [
+    {
+      liquid: slag
+      amount: 0.5
+      booster: true
+    },
+    {
+      liquid: molten-gold
+      amount: 0.2
+      booster: true
+      multiplier: 10
+    },
+  ]
+}
+requirements: [
+  lead/60
+  graphite/40
+  silicon/40
+  gold/20
+]
+category: production
+research: laser-drill

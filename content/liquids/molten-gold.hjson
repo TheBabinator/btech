@@ -4,5 +4,5 @@ color: ffff66
 barColor: ffff66
 lightColor: ffff6666
 temperature: 1
-heatCapacity: 0.2
-viscocity: 0.6
+heatCapacity: 0.3
+viscocity: 0.75

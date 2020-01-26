@@ -6,19 +6,12 @@ tier: 5
 drillTime: 400
 consumes: {
   power: 4
-  liquids: [
-    {
-      liquid: slag
-      amount: 0.5
-      booster: true
-    },
-    {
-      liquid: molten-gold
-      amount: 0.2
-      booster: true
-      multiplier: 10
-    },
-  ]
+  liquid: {
+    liquid: molten-gold
+    amount: 0.2
+    booster: true
+    multiplier: 10
+  }
 }
 requirements: [
   lead/60

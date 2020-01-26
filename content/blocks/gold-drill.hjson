@@ -4,15 +4,16 @@ description: "This drill is the best of the bunch, the only problem is it works 
 size: 3
 tier: 5
 drillTime: 400
+warmupSpeed: 10
 consumes: {
   power: 4
   liquid: {
     liquid: molten-gold
     amount: 0.2
     booster: true
-    multiplier: 10
   }
 }
+liquidBoostIntensity: 10
 requirements: [
   lead/60
   graphite/40

@@ -1,4 +1,4 @@
-type: material
+type: resource
 name: "Gold"
 description: "Ooh, shiny!"
 color: ffff66

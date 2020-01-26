@@ -1,8 +1,8 @@
 name: "Liquid Gold"
 description: "Ooh, melty!"
-color: e6e600
-barColor: e6e600
-lightColor: e6e600
+color: ffff66
+barColor: ffff66
+lightColor: ffff6666
 temperature: 1
 heatCapacity: 0.2
 viscocity: 0.6

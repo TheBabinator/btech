@@ -1,5 +1,6 @@
-type: resource
+type: material
 name: "Gold"
 description: "Ooh, shiny!"
 color: ffff66
 hardness: 3
+cost: 1.2

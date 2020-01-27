@@ -1,5 +1,5 @@
 type: OreBlock
-itemDrop: gold
+itemDrop: resonant-crystal
 oreDefault: true
 oreScale: 25
-oreThreshold: 0.85
+oreThreshold: 0.9

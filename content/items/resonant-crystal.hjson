@@ -1,0 +1,7 @@
+type: resource
+name: "Resonating Crystal"
+description: "Rare crystal that could serve a purpose in intricate electronics."
+color: 2244ff
+hardness: 5
+explosiveness: 0.2
+radioactivity: 0.5

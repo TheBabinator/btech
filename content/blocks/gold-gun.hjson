@@ -1,4 +1,4 @@
-type: OreBlock
+type: ItemTurret
 name: "Golden Gun"
 description: "Shoots stuff with gold, a good method to eradicate anything."
 size: 4
@@ -23,7 +23,8 @@ ammo: {
     bulletWidth: 15
     bulletHeight: 21
     damage: 52
-    speed: 42
+    speed: 4
+    lifetime: 40
   }
 }
 requirements: [

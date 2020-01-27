@@ -14,7 +14,7 @@ consumes: {
     optional: true
   }
 }
-liquidBoostIntensity: 1
+liquidBoostIntensity: 8
 requirements: [
   lead/60
   graphite/40

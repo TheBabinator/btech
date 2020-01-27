@@ -1,0 +1,37 @@
+type: OreBlock
+name: "Golden Gun"
+description: "Shoots stuff with gold, a good method to eradicate anything."
+size: 4
+restitution: 0.1
+recoil: 3
+range: 200
+reload: 8
+inaccuracy: 5
+shootCone: 32
+shootShake: 2
+coolantMultiplier: 1
+ammoUseEffect: shellEjectBig
+shootSound: shootBig
+xRand: 3
+targetGround: true
+targetAir: true
+ammo: {
+  gold: {
+    type: BasicBulletType
+    frontColor: ffff66
+    backColor: cccc51
+    bulletWidth: 15
+    bulletHeight: 21
+    damage: 52
+    speed: 42
+  }
+}
+requirements: [
+	copper/400
+	graphite/360
+	thorium/250
+	silicon/200
+  gold/120
+]
+category: turret
+research: spectre

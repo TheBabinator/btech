@@ -8,15 +8,15 @@ consumes: {
 }
 outputLiquid: {
 	liquid: molten-gold
-	amount: 5
+	amount: 10
 }
 size: 2
 hasPower: true
 hasLiquids: true
-craftTime: 10
+craftTime: 30
 requirements: [
-	lead/60
 	copper/80
+	lead/60
 	silicon/30
 	gold/20
 ]

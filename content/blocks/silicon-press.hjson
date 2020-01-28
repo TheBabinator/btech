@@ -3,7 +3,9 @@ name: "Silicon Press"
 description: "Presses silicon."
 consumes: {
 	power: 0.8
-	items: [silicon/2]
+	items: {
+		items: [silicon/2]
+	}
 }
 outputItem: pressed-silicon/1
 size: 2

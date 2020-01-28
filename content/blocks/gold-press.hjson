@@ -3,7 +3,9 @@ name: "Gold Press"
 description: "Presses gold."
 consumes: {
 	power: 0.8
-	items: [gold/2]
+	items: {
+		items: [gold/2]
+	}
 }
 outputItem: pressed-gold/1
 size: 2

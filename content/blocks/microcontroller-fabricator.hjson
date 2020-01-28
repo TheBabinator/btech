@@ -3,11 +3,13 @@ name: "Microcontroller Fabricator"
 description: "Makes microcontrollers with pressed silicon and gold, also uses a resonating crystal."
 consumes: {
 	power: 0.8
-	items: [
-		pressed-silicon/1
-		pressed-gold/1
-		pressed-resonant-crystal/1
-	]
+	items: {
+		items: [
+			pressed-silicon/1
+			pressed-gold/1
+			pressed-resonant-crystal/1
+		]
+	}
 }
 outputItem: microcontroller/1
 size: 2

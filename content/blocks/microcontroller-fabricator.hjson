@@ -7,7 +7,7 @@ consumes: {
 		items: [
 			pressed-silicon/1
 			pressed-gold/1
-			pressed-resonant-crystal/1
+			resonant-crystal/1
 		]
 	}
 }

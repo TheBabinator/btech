@@ -2,7 +2,7 @@ type: Drill
 name: "Gold Drill"
 description: "This drill is the best of the bunch, the only problem is it works better with molten gold."
 size: 3
-tier: 5
+tier: 6
 drillTime: 400
 warmupSpeed: 0.001
 consumes: {
@@ -20,6 +20,7 @@ requirements: [
   graphite/40
   silicon/40
   gold/20
+  microcontroller/10
 ]
 category: production
 research: laser-drill

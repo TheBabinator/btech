@@ -4,11 +4,11 @@ description: "Melts down gold, don't touch."
 liquidCapacity: 50
 consumes: {
 	power: 1
-	item: gold
+	items: [gold/3]
 }
 outputLiquid: {
 	liquid: molten-gold
-	amount: 10
+	amount: 20
 }
 size: 2
 hasPower: true

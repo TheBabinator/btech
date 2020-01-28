@@ -1,0 +1,18 @@
+type: GenericCrafter
+name: "Silicon Press"
+description: "Presses silicon."
+consumes: {
+	power: 0.8
+	items: [silicon/2]
+}
+outputItem: pressed-silicon/1
+size: 2
+hasPower: true
+craftTime: 90
+requirements: [
+	copper/80
+	lead/80
+	silicon/40
+]
+category: crafting
+research: graphite-press

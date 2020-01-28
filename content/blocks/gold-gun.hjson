@@ -33,6 +33,7 @@ requirements: [
 	thorium/250
 	silicon/200
   gold/120
+  microcontroller/20
 ]
 category: turret
 research: spectre

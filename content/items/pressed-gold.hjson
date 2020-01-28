@@ -1,0 +1,4 @@
+type: resource
+name: "Pressed Gold"
+description: "This gold has been pressed!"
+color: cccc51

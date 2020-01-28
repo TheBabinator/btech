@@ -1,0 +1,4 @@
+type: resource
+name: "Pressed Silicon"
+description: "This silicon has been pressed!"
+color: cccc51
